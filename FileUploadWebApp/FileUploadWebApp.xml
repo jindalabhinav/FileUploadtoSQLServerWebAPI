@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileUploadWebApp</name>
+    </assembly>
+    <members>
+        <member name="M:FileUploadWebApp.Controllers.ImageUploadController.Upload(Microsoft.AspNetCore.Http.IFormFile,System.String)">
+            <summary>
+            This endpoint accepts a file and filename to be stored in Db
+            </summary>
+            <param name="image"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
